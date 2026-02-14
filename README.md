@@ -1,5 +1,5 @@
 **Efficient Security Resource Allocation for Mobile Computing using Particle Swarm Optimization 
-Technique compared over Bee Colony Optimization Technique with Improved Accurac**
+Technique compared over Bee Colony Optimization Technique with Improved Accuracy**
 
 This project presents a comparative study between Particle Swarm Optimization (PSOT) and Bee Colony Optimization (BCOT) techniques to improve the efficiency and accuracy of security resource allocation in mobile and cloud computing environments.
 
